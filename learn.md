@@ -22,9 +22,9 @@ There is also a good complementary resource here: https://andreasbm.github.io/we
 
 **Keep in mind that it is important to identify and name the topics that will move us forward on our path.**
 
-Another advice is that whatching videos and reading articles will not make you learn efficiently (at least yet). It requires a lot of discipline, that we mostly forgot since we are not in school anymore. It is important that you practice the skills you learned and **keep a log of what you learned**. Some people do that on paper, some thinks that learning in the open in a good practice, it has never been more easy to publish content on the internet, so please keep a trace of what you learned. And it can be interesting for you to share it. 
+Another advice is that watching videos and reading articles will not make you learn efficiently (at least yet). It requires a lot of discipline, that we mostly forgot since we are not in school anymore. It is important that you practice the skills you learned and **keep a log of what you learned**. Some people do that on paper, some thinks that learning in the open in a good practice, it has never been more easy to publish content on the internet, so please keep a trace of what you learned. And it can be interesting for you to share it. 
 
-to go further / inspirations: 
+To go further / inspirations: 
 - https://www.swyx.io/learn-in-public/
 - https://leebyron.com/til/
 
@@ -36,7 +36,7 @@ Before diving into web development some knowledge are absolutely mandatory to wo
 
 **Work your english**
 
-You will work with people that dont speak, write nor read your language, your coding and documentation work will be entirely in english. So it of primary importance that you become good at it. That require time and dedication, but there is some tools to help you ([deepl](https://www.deepl.com) can be quite easyly integrated to your daily flow) and you can see with your manager to get real english courses.
+You will work with people that don't necessary speak, write nor read your mother language, your coding and documentation work will be entirely in english. So it of primary importance that you become good at it. That require time and dedication, but there is some tools to help you ([deepl](https://www.deepl.com) can be quite easyly integrated to your daily flow) and you can see with your manager to get real english courses.
 
 **Work your writing**
 
@@ -46,7 +46,7 @@ Writing impactful content (content that is read and recognised) is not automatic
 **Work your reading**
 
 With a lot of writing comes a lot of reading, hoppefully practicing your english writting skill will make you better at reading english content.
-But reading is also a skills that needs to be trained. Interesting and valuable content are most of the time bigger in size than a series of tweets. So it is important that you build resilience to long reads.
+But reading is also a skill that needs to be trained. Interesting and valuable content are most of the time bigger in size than a series of tweets. So it is important that you build resilience to long reads.
 You will learn most of your future skills in long reads (in english). So make it a habit, an dedicate some time of your schedule to read. You can also build a read list in order to always have something ready.
 
 **IDE and communication tools** 
@@ -58,10 +58,10 @@ Being really efficient in spreadsheets and slides tools can also be a huge boost
 
 **Git**
 
-Regardless of what your dev job will preciselly be, almost everything we do relies on code, even infrastructure. As we work in distributed teams Git is at the core of what we do. Is is **mandatory** that you have a good comprehension of what it is and how it works, and how your team workflow relies on it. 
+Regardless of what your dev job will preciselly be, almost everything we do relies on code, even infrastructure. As we work in distributed teams Git is at the core of what we do. It is **mandatory** that you have a good comprehension of what it is and how it works, and how your team workflow relies on it. 
 Hopefully there are standards and conventions, you need to be aware of those and their values.
 
-courses: 
+Courses: 
 - https://www.pluralsight.com/courses/git-big-picture
 - https://www.pluralsight.com/courses/master-git
 - Best on the market: https://delicious-insights.com/en/trainings/360-git/
